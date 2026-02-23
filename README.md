@@ -1,75 +1,118 @@
-# 👋 Olá, eu sou Josué Lima
+# 👨🏻‍💻 Josué Lima
 
-💻 Desenvolvedor em formação | Foco em Engenharia de Dados  
-📍 Recife - PE, Brasil  
-🎯 Objetivo: Me tornar Engenheiro de Dados e construir negócios próprios na área de tecnologia  
+**`Data Engineer in Progress`**
 
----
+Me chamo Josué Lima, sou natural de Recife - PE, Brasil. Atualmente estou focado na minha formação como Engenheiro de Dados, estudando Engenharia de Dados, ETL, Modelagem de Dados, Data Lakehouse e SQL Avançado.  
 
-## 🚀 Sobre mim
+Sou movido por disciplina, consistência e crescimento exponencial. Meu objetivo é consolidar minha carreira na área de dados e, futuramente, construir meu próprio negócio em tecnologia.
 
-Sou apaixonado por tecnologia e desenvolvimento.  
-Já atuei como assistente técnico de TI e atualmente estou focado em evoluir minhas habilidades como desenvolvedor.
-
-Estou construindo minha carreira com foco em:
-- Engenharia de Dados
-- SQL avançado
-- Desenvolvimento Backend
-- Construção de sistemas reais
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-- 💾 SQL
-- 🐍 Python
-- ☕ Java
-- 🌐 HTML5 | CSS3 | JavaScript
-- 🗄️ Banco de Dados
-- 🐘 PostgreSQL
-- 🐬 MySQL
+<p align="left">
+    <a href="https://github.com/jotalima1-lang?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jotalima1-lang?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/jotalima1-lang?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jotalima1-lang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+### 🤖 Linguagens e Tecnologias
 
-- Engenharia de Dados
-- Modelagem de Dados
-- ETL
-- Data Lakehouse
-- Boas práticas de código
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 💼 Projetos em destaque
+### 📊 Estatísticas
 
-### 🎓 Sistema de Emissão de Certificados
-Sistema completo com:
-- Login
-- Cadastro de alunos
-- Geração de certificado em PDF
-- Código único de validação
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jotalima1-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" 
+  />
 
-### 📊 Simulação de API de Projetos
-Sistema que simula um endpoint para consulta de status de projetos.
+<img 
+      align="left" 
+      alt="Top Languages" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalima1-lang&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
 
-(Em breve mais projetos 🚀)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotalima1-lang&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotalima1-lang&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Como falar comigo
-
-- 💼 LinkedIn: (coloque seu link aqui)
-- 📧 Email: (coloque seu email aqui)
-
----
-
-⭐ Sempre aprendendo. Sempre evoluindo.
+</p>
