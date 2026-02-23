@@ -136,17 +136,25 @@ Sou movido por disciplina, consistência e crescimento exponencial. Meu objetivo
 <br/>
 
 
-
 ### 📊 Estatísticas
 
-<p align="center">
+<p>
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=jotalima1-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jotalima1-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalima1-lang&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalima1-lang&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
+
+<br/>
+<br/>
