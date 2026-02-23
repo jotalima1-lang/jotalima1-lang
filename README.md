@@ -53,6 +53,30 @@ Sou movido por disciplina, consistência e crescimento exponencial. Meu objetivo
 />
 <img 
     align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
@@ -66,6 +90,22 @@ Sou movido por disciplina, consistência e crescimento exponencial. Meu objetivo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Microsoft SQL Server" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
 />
 <img 
     align="left" 
@@ -95,24 +135,18 @@ Sou movido por disciplina, consistência e crescimento exponencial. Meu objetivo
 <br/>
 <br/>
 
----
+
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jotalima1-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=jotalima1-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" 
   />
 
-<img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalima1-lang&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalima1-lang&layout=compact&theme=tokyonight&cache_seconds=1800" 
   />
-
 </p>
